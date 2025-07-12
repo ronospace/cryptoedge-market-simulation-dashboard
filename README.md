@@ -26,16 +26,18 @@
 
 ## 🗂 Folder Structure
 
-cryptoedge-market-simulation-dashboard/
-├── lib/                    # Flutter source code
-├── assets/                 # App icons and images
-├── analysis/               # Python ML & Streamlit scripts
-├── web/                    # Web platform config
-├── pubspec.yaml            # Flutter dependencies
-├── README.md               # Project overview
-└── ...                     # Other platform-specific files
+## 🗂 Folder Structure
 
----
+```
+cryptoedge-market-simulation-dashboard/
+├── lib/            # Flutter source code
+├── assets/         # App icons and images
+├── analysis/       # Python ML & Streamlit scripts
+├── web/            # Web platform config
+├── pubspec.yaml    # Flutter dependencies
+├── README.md       # Project overview
+└── ...             # Other platform-specific files
+```
 
 ## 📣 How to Use
 
