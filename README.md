@@ -39,8 +39,6 @@ cryptoedge-market-simulation-dashboard/
 
 ## 📣 How to Use
 
-## 📣 How to Use
-
 1. Clone this repo:
    ```bash
    git clone https://github.com/ronospace/cryptoedge-market-simulation-dashboard.git
