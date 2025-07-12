@@ -26,8 +26,6 @@
 
 ## 🗂 Folder Structure
 
-## 🗂 Folder Structure
-
 ```
 cryptoedge-market-simulation-dashboard/
 ├── lib/            # Flutter source code
@@ -38,6 +36,8 @@ cryptoedge-market-simulation-dashboard/
 ├── README.md       # Project overview
 └── ...             # Other platform-specific files
 ```
+
+## 📣 How to Use
 
 ## 📣 How to Use
 
